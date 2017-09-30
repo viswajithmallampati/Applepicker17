@@ -4,4 +4,7 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Placeholder-DELETE_ME.unity
+    guid: 4b465fff4d45e9d468d40b77e4543136
